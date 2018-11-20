@@ -36,6 +36,20 @@ public class Demo {
 		System.out.println("bittchxiang");
 		System.out.println("bittchxiang");
 	 }
+	 
+	 public static void demo3() {  // 第十一次提交测试
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+			System.out.println("bittchxiang");
+	}
+	 
+	 
 	// 第二次提交测试
 	// 第二次提交测试
 	// 第二次提交测试
