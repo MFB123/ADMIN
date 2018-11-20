@@ -14,8 +14,17 @@ public class Demo {
 		 System.out.println("小单卡手机萝莉撒达到啊啊啊");
 		 System.out.println("小单卡手机萝莉撒达到啊啊啊");
 		 System.out.println("123232132131");
-		 System.out.println("12323213213122222");
 	 }
 	
+	 public static void demo1() {  // 第二次提交测试
+		 System.out.println("测试222");
+		 System.out.println("测试222");
+		 System.out.println("测试222");
+		 System.out.println("小萝莉撒达到啊啊啊");
+		 System.out.println("小萝莉撒达到啊啊啊");
+		 System.out.println("小萝莉撒达到啊啊啊");
+		 System.out.println("小萝莉撒达到啊啊啊");
+		 System.out.println("小萝莉撒达到啊啊啊");
+	 }
 
 }
