@@ -37,7 +37,7 @@ public class Demo {
 		System.out.println("bittchxiang");
 	 }
 	 
-	 public static void demo3() {  // 第十一次提交测试
+	 public static void demo4() { // 第十一次提交测试
 			System.out.println("bittchxiang");
 			System.out.println("bittchxiang");
 			System.out.println("bittchxiang");
