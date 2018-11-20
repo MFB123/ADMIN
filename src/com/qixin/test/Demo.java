@@ -49,6 +49,17 @@ public class Demo {
 			System.out.println("bittchxiang");
 	}
 	 
+	    @RequestMapping(value="list.do")//第十二次测试
+		public String getList(@RequestParam(defaultValue="1") Integer cpage,HttpServletRequest request){
+			Integer pageSize = 2;
+			List<YuanGong> list = yuanGongService.getList(cpage, pageSize);
+			Integer count = yuanGongService.selectCount();
+			String url = "list.do";
+			PageUtils.getPage(request, cpage, pageSize, count, list, url);
+			return "view/list";	
+		}
+	  
+	 
 	 
 	// 第二次提交测试
 	// 第二次提交测试
